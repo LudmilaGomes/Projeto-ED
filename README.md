@@ -5,4 +5,5 @@
     - Lista Duplamente Encadeada
     - Árvore Binária de Pesquisa 
 
-(implementação da árvore e interface gráfica: @LudmilaGomes; representação gráfica: @Futuriiiii)
+Implementação da árvore e interface gráfica: @LudmilaGomes; 
+Representação gráfica da árvore: @Futuriiiii
